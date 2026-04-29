@@ -13,8 +13,8 @@
 
 | Topic | Description | Link |
 |------|-------------|------|
-| HTML-CSS Basics | Learn structure, styling, and fundamentals | <a href="./html-css/Basic/" style="display:inline-block;padding:6px 12px;background:#2ea44f;color:white;text-decoration:none;border-radius:6px;font-weight:bold;">Open</a> |
-| Vanilla JS (ES6 Modules) Core Concepts | Modern JavaScript basics | ⏳ On progress... |
+| HTML-CSS Basics | Learn structure, styling, and fundamentals | <a href="./html-css/">Open</a> |
+| Vanilla JS (ES6 Modules) Core Concepts | Modern JavaScript basics | <a href="./javascript-es6">Open</a> |
 
 
 <br>
@@ -23,17 +23,7 @@
 Web development is built step by step — keep learning, keep building, even when it feels slow.
 </p>
 
-  <div style="
-    padding:16px 22px;
-    border:1px solid #2ea44f;
-    border-radius:12px;
-    background:#0d1117;
-    color:#2ea44f;
-    font-weight:600;
-    font-size:16px;
-    display:inline-block;
-    transition:0.2s;
-  ">
+  <div>
     🚀 Start Learning
   </div>
 
