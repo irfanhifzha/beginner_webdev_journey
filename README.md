@@ -1,5 +1,5 @@
 <div align="center">
-<h1>🚀 Beginner Webdev Journey</h1>
+<h1>🚀 Beginner-Webdev-Journey</h1>
 
 <p>📘 <b>Learn HTML • CSS • JavaScript </b></p>
 
