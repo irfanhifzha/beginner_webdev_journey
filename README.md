@@ -14,8 +14,7 @@
 | Topic | Description | Link |
 |------|-------------|------|
 | HTML-CSS Basics | Learn structure, styling, and fundamentals | <a href="./html-css/Basic/" style="display:inline-block;padding:6px 12px;background:#2ea44f;color:white;text-decoration:none;border-radius:6px;font-weight:bold;">Open</a> |
-| HTML-CSS Intermediate | ... | ⏳ On progress... |
-| Vanilla JS (ES6 Modules) | Modern JavaScript basics | ⏳ On progress... |
+| Vanilla JS (ES6 Modules) Core Concepts | Modern JavaScript basics | ⏳ On progress... |
 
 
 <br>
