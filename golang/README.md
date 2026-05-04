@@ -7,7 +7,7 @@
 | Topic | Description | Link |
 |------|-------------|------|
 | 1) Go Introduction | Dasar Go Lang (Basic Localhost Web) | <a href="./golang-basics/">Open</a> |
-| 2) Go| .... | .... |
+| 2) Go ... | .... | https://go.dev/doc/tutorial/database-access |
 | ... | .... | .... |
 
 <br>

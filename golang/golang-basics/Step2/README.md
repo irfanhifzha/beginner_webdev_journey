@@ -1,6 +1,7 @@
 Step 2: Belajar webhost server sederhana
 
 1. Buat file step2.go
+
 ```
 //go:build ignore
 
@@ -24,12 +25,15 @@ func main() {
 ```
 
 2. Compile and run di cmd windows
+
 ```
 go build step2.go
 
 step2
 ```
+
 Atau langsung compile dan run
+
 ```
 go run step2.go
 ```

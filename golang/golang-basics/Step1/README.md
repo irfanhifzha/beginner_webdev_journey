@@ -1,6 +1,7 @@
 Step 1: Belajar go lang penggunaan file dasar
 
 1. buat file step1.go dengan isi
+
 ```
 // Copyright 2010 The Go Authors. All rights reserved.
 // Use of this source code is governed by a BSD-style
@@ -45,19 +46,25 @@ func main() {
 2. Compile and run di cmd windows
 
 Compile:
+
 ```
 go build step1.go
 ```
+
 Run:
+
 ```
 step1.exe
 ```
+
 atau bisa juga run dengan:
+
 ```
 step1
 ```
 
 Atau langsung compile dan run
+
 ```
 go run step1.go
 ```

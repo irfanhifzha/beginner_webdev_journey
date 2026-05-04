@@ -1,6 +1,7 @@
 Step 4: Web routing handling edit/view dari txt file
 
 1. Buat file step4.go dengan isi berikut
+
 ```
 // Copyright 2010 The Go Authors. All rights reserved.
 // Use of this source code is governed by a BSD-style
@@ -94,10 +95,10 @@ func main() {
 
 	log.Fatal(http.ListenAndServe(":8080", nil))
 }
-
 ```
 
 2. Buat file view.html pada folder yang sama dengan step4.go, isi dengan file berikut
+
 ```
 <!DOCTYPE html>
 <html>
@@ -120,7 +121,9 @@ func main() {
 </html>
 ```
 
+
 3. Buat file edit.html pada folder yang sama dengan step4.go, isi dengan file berikut
+
 ```
 <!DOCTYPE html>
 <html>
@@ -148,18 +151,23 @@ func main() {
 </html>
 ```
 
+
 3. Buat file test.txt pada folder yang sama dengan step4.go, isi bebas
 
 4. Compile and run step4.go
+
 ```
 go build step4.go
 
 step4
 ```
+
 Atau langsung compile dan run
+
 ```
 go run step4.go
 ```
+
 
 5. Perhantikan hasil pada url `http://localhost:8080/view/test`
 

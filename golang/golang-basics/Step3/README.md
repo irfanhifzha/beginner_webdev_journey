@@ -1,6 +1,7 @@
 Step 3: Host web from txt file
 
 1. Buat file step3.go dengan isi berikut
+
 ```
 // Copyright 2010 The Go Authors. All rights reserved.
 // Use of this source code is governed by a BSD-style
@@ -54,12 +55,15 @@ func main() {
 
 
 3. Compile dan run step3.go di cmd windows
+
 ```
 go build step3.go
 
 step3
 ```
+
 atau run step3.go aja langung dengan
+
 ```
 go run step3.go
 ```
