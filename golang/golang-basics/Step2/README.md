@@ -29,6 +29,10 @@ go build step2.go
 
 step2
 ```
+Atau langsung compile dan run
+```
+go run step2.go
+```
 
 
 3. Jika ada pop up windows `step2.exe`, klik allow

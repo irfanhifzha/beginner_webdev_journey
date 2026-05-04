@@ -57,4 +57,9 @@ atau bisa juga run dengan:
 step1
 ```
 
+Atau langsung compile dan run
+```
+go run step1.go
+```
+
 3. Lihat hasilnya! ketika di run terlihat `This is a sample Page.` dan juga terbuat file TestPage.txt

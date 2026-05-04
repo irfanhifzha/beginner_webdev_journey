@@ -11,7 +11,10 @@
 | Step 3: Host web from txt file | <a href="./Step3">Open</a> |
 | Step 4: Web routing handling edit/view dari txt file | <a href="./Step4">Open</a> |
 
+<br>
+Dokumentasi belajar dari <a href="https://go.dev/doc/articles/wiki/">https://go.dev/doc/articles/wiki/</a>
 
+<p>Ikuti langkah-langkah dan analisis lagi bagaimana logika coding itu terjalankan</p>  
 
 
 

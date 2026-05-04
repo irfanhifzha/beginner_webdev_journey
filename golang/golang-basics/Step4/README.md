@@ -150,10 +150,21 @@ func main() {
 
 3. Buat file test.txt pada folder yang sama dengan step4.go, isi bebas
 
-4. Perhantikan hasil pada url `http://localhost:8080/view/test`
+4. Compile and run step4.go
+```
+go build step4.go
 
-5. Coba apabila ke url yang file txt yang belum ada `http://localhost:8080/edit/belumadafile`
+step4
+```
+Atau langsung compile dan run
+```
+go run step4.go
+```
 
-6. Perhatikan apa yang terjadi.
+5. Perhantikan hasil pada url `http://localhost:8080/view/test`
+
+6. Coba apabila ke url yang file txt yang belum ada `http://localhost:8080/edit/belumadafile`
+
+7. Perhatikan apa yang terjadi.
 
 Ini adalah suatu proses routing handling, ketika ke url yang belum ada suatu file-nya, maka path akan pindah ke path `localhost/edit`, dan bisa membuat file txt baru disana. Sedangkan ketika file txt sudah ada maka bisa mengakses url seperti `localhost/view/test` bisa mengakses endpoint `test` karena sudah ada file `test.txt`  
