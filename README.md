@@ -11,11 +11,11 @@
 
 ## 📚 Course Roadmap
 
-| Topic | Description | Link |
-|------|-------------|------|
-| HTML-CSS Basics | Learn structure, styling, and fundamentals | <a href="./html-css/">Open</a> |
-| Vanilla JS (ES6 Modules) Core Concepts | Modern JavaScript basics | <a href="./javascript-es6">Open</a> |
-| Go (Programming Language) | Go Language used for backend | <a href="./golang">Open</a> |
+| No | Topic | Description | Link |
+| --- |------|-------------|------|
+| 1 | HTML-CSS Basics | Learn structure, styling, and fundamentals | <a href="./html-css/">Open</a> |
+| 2 | Vanilla JS (ES6 Modules) Core Concepts | Modern JavaScript basics | <a href="./javascript-es6">Open</a> |
+| 3 | Go (Programming Language) | Go Language used for backend | <a href="./golang">Open</a> |
 
 
 <br>
