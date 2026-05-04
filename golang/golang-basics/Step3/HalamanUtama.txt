@@ -1,0 +1,5 @@
+Halo! disini adalah halaman utama dari url ../HalamanUtama
+
+Apakah berhasil?
+
+Jika berhasil lanjut ke step berikutnya...

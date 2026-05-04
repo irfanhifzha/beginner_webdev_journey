@@ -1,7 +1,7 @@
 <div align="center">
 <h1>🚀 Beginner-Webdev-Journey</h1>
 
-<p>📘 <b>Learn HTML • CSS • JavaScript </b></p>
+<p>📘 <b>Learn HTML • CSS • JavaScript • Go • And more... </b></p>
 
 <p>Repositori ini adalah panduan langkah demi langkah untuk pemula dalam mempelajari pengembangan web, yang berfokus pada HTML, CSS, dan dasar-dasar JavaScript (modul ES6).</p>
 
@@ -15,6 +15,7 @@
 |------|-------------|------|
 | HTML-CSS Basics | Learn structure, styling, and fundamentals | <a href="./html-css/">Open</a> |
 | Vanilla JS (ES6 Modules) Core Concepts | Modern JavaScript basics | <a href="./javascript-es6">Open</a> |
+| Go (Programming Language) | Go Language used for backend | <a href="./golang">Open</a> |
 
 
 <br>
